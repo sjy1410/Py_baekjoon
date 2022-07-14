@@ -1,5 +1,5 @@
 import sys
-input = sys.stdin.readline #시간 줄이기
+input = sys.stdin.readline #컴파일 시간 줄이기
 
 n = int(input())
 
